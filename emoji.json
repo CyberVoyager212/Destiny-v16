@@ -1,0 +1,44 @@
+{
+  "cards": {
+    "2": "<:maa2:buraya id yazın>",
+    "3": "<:maa3:buraya id yazın>",
+    "4": "<:maa4:buraya id yazın>",
+    "5": "<:maa5:buraya id yazın>",
+    "6": "<:maa6:buraya id yazın>",
+    "7": "<:maa7:buraya id yazın>",
+    "8": "<:maa8:buraya id yazın>",
+    "9": "<:maa9:buraya id yazın>",
+    "10": "<:maa10:buraya id yazın>",
+    "J": "<:maakz:buraya id yazın>",
+    "Q": "<:maakz:buraya id yazın>",
+    "K": "<:maakral:buraya id yazın>",
+    "A": "<:maaas:buraya id yazın>"
+  },
+  "cardBack": "<:iskambilkadarkadangrn:buraya id yazın>",
+  "money": {
+    "high": "<:cuvalDestinex:buraya id yazın>",
+    "medium": "<:banknotDestinex:buraya id yazın>",
+    "low": "<:Destinex:buraya id yazın>"
+  },
+  "slot": {
+    "spinning": "<a:slotd:buraya id yazın>",
+    "slot1": "<:slot1:buraya id yazın>",
+    "slot2": "<:slot2:buraya id yazın>",
+    "slot3": "<:slot3:buraya id yazın>"
+  },
+  "guns": {
+    "bos": "<:38Specialbos:buraya id yazın>",
+    "ates": "<:38Specialates:buraya id yazın>"
+  },
+  "coinflip": {
+    "spinner": "<a:dnyor:buraya id yazın>",
+    "heads": "<:Destinex:buraya id yazın>",  
+    "tails": "<:Destinex2:buraya id yazın>"
+  },
+  "wifi": {
+    "4": "<:4tikliwifi:buraya id yazın>",
+    "3": "<:3tikliwifi:buraya id yazın>",
+    "2": "<:2tikliwifi:buraya id yazın>",
+    "1": "<:1tikliwifi:buraya id yazın>"
+  }
+}
