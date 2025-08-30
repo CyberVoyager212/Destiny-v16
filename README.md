@@ -63,7 +63,7 @@ module.exports = {
   botname: "",        // Bot ismi (AI komutlarında önemli)
   SERPER_API_KEY: "", // Web arama için
   OPENROUTER_API_KEY: "", // AI işlemleri için
-  supportServer: "" // discord sunucu davet linki
+  supportServer: "", // discord sunucu davet linki
   logChannelId: "",   // Log kanalı ID
   debug: true         // true kalmalı
 };
